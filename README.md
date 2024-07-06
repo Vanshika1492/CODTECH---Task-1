@@ -7,7 +7,7 @@ Duration: June 15th, 2024 to August 15th, 2024
 
 OVERVIEW OF THE PROJECT
 
-Project: Design basic logic gates like logic gates, adders, multiplexers using Verilog
+Project: Digital Logic Design With Verilog
 ![22222](https://github.com/Vanshika1492/CODTECH---Task-1/assets/174045085/b4b47473-b161-49ec-8d20-7973ced6c739)
 ![2233](https://github.com/Vanshika1492/CODTECH---Task-1/assets/174045085/d6186509-1d44-43e8-b02f-aecd1a0a8e02)
 
